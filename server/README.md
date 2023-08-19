@@ -1,0 +1,7 @@
+# server
+
+## Run
+
+```
+cargo run
+```
